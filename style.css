@@ -1,3 +1,18 @@
+body{
+    background-color:rgb(rgba(68, 0, 255, 0.541), rgba(5, 5, 252, 0.712), blue);
+    text-align: center;
+    text-transform: capitalize;
+    top: 15%;
+    
+}
+
 h1{
-    font-style: italic;
+   color: rgba(0,0,6,.5);
+   text-align: center;
+   
+}
+h2{
+    color: rgba(150, 150, 128, 0.9);
+    text-align: center;
+    
 }
